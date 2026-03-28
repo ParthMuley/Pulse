@@ -12,6 +12,8 @@ View your app in AI Studio: https://ai.studio/apps/849567a1-1364-41b5-a969-68703
 
 **Prerequisites:**  Node.js
 
+https://remix-remix-pulse-892348165423.us-west1.run.app/
+
 
 1. Install dependencies:
    `npm install`
