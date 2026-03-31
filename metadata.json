@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Remix: Pulse",
+  "description": "AI-driven dynamic music and visual engine for gaming events. Replaces static soundtracks with real-time, mood-responsive compositions based on chat and commentary.",
+  "requestFramePermissions": [
+    "microphone",
+    "display-capture"
+  ]
+}
