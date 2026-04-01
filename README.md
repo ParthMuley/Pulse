@@ -5,7 +5,7 @@
 # Pulse
 
 ## Demo
-![Pulse Demo](pulse_recording1.mp4)
+<video src="pulse_recording1.mp4" width="100%" controls alt="Pulse Demo"></video>
 
 # Run and deploy your AI Studio app
 
