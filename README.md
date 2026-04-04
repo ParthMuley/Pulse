@@ -5,7 +5,6 @@
 
 **Dynamic, AI-driven soundtracks for the next generation of live streaming.**
 
-[![License: Apache-2.0](https://img.shields.io/badge/License-Apache_2.0-orange.svg)](https://opensource.org/licenses/Apache-2.0)
 [![Built with Gemini](https://img.shields.io/badge/Built%20with-Gemini%203%20Flash-blue)](https://ai.google.dev/)
 [![Built with Lyria](https://img.shields.io/badge/Built%20with-Lyria%203-purple)](https://deepmind.google/technologies/lyria/)
 
@@ -88,11 +87,6 @@ Check out the full demo video to see Pulse in action:
    npm run dev
    ```
    Open [http://localhost:3000](http://localhost:3000) to view the app.
-
----
-
-## 📜 License
-Pulse is released under the **Apache 2.0 License**.
 
 ---
 
